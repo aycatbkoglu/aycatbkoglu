@@ -6,7 +6,7 @@
 
 *I'm studying Geomatics Engineering at Hacettepe University*
 
-[linkedln](https://www.linkedin.com/in/ay%C3%A7a-tabako%C4%9Flu-b33ab4195/) </br>
+[linkedIn](https://www.linkedin.com/in/ay%C3%A7a-tabako%C4%9Flu-b33ab4195/) </br>
 
 - 🔭 I’m currently working on Database Managment System, GIS, Photogrammetry, Remote Sensing and Computer Vision.
  
