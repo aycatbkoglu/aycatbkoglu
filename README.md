@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+I'm Ayça, an engineering studenst from Turkey 
+I'm studying Geomatics Engineering at Hacettepe University
+
 <!--
 **aycatbkoglu/aycatbkoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
