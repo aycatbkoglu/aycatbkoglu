@@ -11,9 +11,13 @@ I'm studying Geomatics Engineering at Hacettepe University
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on database managment system and geographic information systems
-- 🌱 I’m currently learning PostgreSQL and Python
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: tabakogluayca99@gmail.com
+ 🔭 I’m currently working on database managment system and geographic information systems
+ 
+ 🌱 I’m currently learning PostgreSQL and Python
+ 
+ 💬 Ask me about anything, I am happy to help
+ 
+ 📫 How to reach me: tabakogluayca99@gmail.com
+ 
 
 -->
