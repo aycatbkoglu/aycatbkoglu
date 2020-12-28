@@ -1,7 +1,7 @@
 ### *Hi there 👋*
 
 
-*I'm AYÇA, an engineering studenst from Turkey*
+*I'm AYÇA, an engineering students from Turkey*
 
 
 *I'm studying Geomatics Engineering at Hacettepe University*
