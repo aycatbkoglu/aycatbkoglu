@@ -2,6 +2,8 @@
 
 
 I'm Ayça, an engineering studenst from Turkey 
+
+
 I'm studying Geomatics Engineering at Hacettepe University
 
 <!--
@@ -9,12 +11,9 @@ I'm studying Geomatics Engineering at Hacettepe University
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on database managment system and geographic information systems
+- 🌱 I’m currently learning PostgreSQL and Python
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: tabakogluayca99@gmail.com
+
 -->
