@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-I'm Ayça, an engineering studenst from Turkey 
+*I'm Ayça, an engineering studenst from Turkey*
 
 
-I'm studying Geomatics Engineering at Hacettepe University
+*I'm studying Geomatics Engineering at Hacettepe University*
 
 [linkedln](https://www.linkedin.com/in/ay%C3%A7a-tabako%C4%9Flu-b33ab4195/) </br>
 
