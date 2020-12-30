@@ -17,12 +17,9 @@
 href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25"   
 
 
-- 🔭 I’m currently working on Database Managment System, GIS, Photogrammetry, Remote Sensing and Computer Vision.
- 
-- 🌱 I’m currently learning PostgreSQL and Python
- 
-- 💬 Ask me about anything, I am happy to help
- 
+- 🔭 I’m currently working on Database Managment System, GIS, Photogrammetry, Remote Sensing and Computer Vision. 
+- 🌱 I’m currently learning PostgreSQL and Python 
+- 💬 Ask me about anything, I am happy to help 
 - 📫 How to reach me: tabakogluayca99@gmail.com
 
 
