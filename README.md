@@ -23,6 +23,6 @@ href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wiki
 - 📫 How to reach me: tabakogluayca99@gmail.com
 
 
- 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aycatbkoglu&layout=compact)](https://github.com/aycatbkoglu/github-readme-stats)
 
 
